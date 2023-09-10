@@ -7,9 +7,7 @@
   <p>✨ My Primary Tech Languages ✨</p>
 </div>
 <div align=center>
-  <a href="https://www.instagram.com/keep_cy">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white&link=https://www.instagram.com/keep_cy"/>
-  </a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 </div>
@@ -22,9 +20,9 @@
   <p>💠 SNS & CONTACT 💠</p>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/keep_cy-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ace1428hee-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/choyeon2e-20C997?style=flat&logo=Velog&logoColor=white"/>
+  <a href="https://www.instagram.com/keep_cy"><img src="https://img.shields.io/badge/keep_cy-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/keep_cy"/></a>
+  <a href="mailto:ace1428hee@gmail.com"><img src="https://img.shields.io/badge/ace1428hee-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ace1428hee@gmail.com"/></a>
+  <a href="https://velog.io/@choyeon2e"><img src="https://img.shields.io/badge/choyeon2e-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@choyeon2e"/></a>
 </div>
 <br/><br/><br/><hr/><br/>
 <div >
