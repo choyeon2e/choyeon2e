@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=220&section=header&text=choyeon2e&animation=fadeIn&fontSize=80&color=e736ac" />
+<div>
+  <h1 align="center">👨‍💻 <br/> choyeon2e's GitHub</h1>
+<h3 align="center">Frontend Developer </h3>
 </div>
-<h1 align="center">'s GitHub</h1>
-<h3 align="center">👨‍💻 <br/> Frontend Developer </h3>
 
 ---
 
