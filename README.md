@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=choyeon2e&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=choyeon2e&show_icons=true&theme=radical&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyeon2e&layout=compact&theme=radical" />
 
 ### 🗓 Yearly Commits  
