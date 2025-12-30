@@ -23,6 +23,7 @@
 <br/>
 
 <!-- State Management -->
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=Jotai&logoColor=white"/>
@@ -114,13 +115,18 @@
     <td><b>FE</b></td>
   </tr>
   <tr>
-    <td>2025.03 ~</td>
+    <td>2025.03 ~ 2025.12</td>
     <td>📱 TimeTile</td>
     <td><b>FE</b></td>
   </tr>
   <tr>
     <td>2025.08 ~</td>
     <td>🍟 코테이토 12기 파트장</td>
+    <td><b>FE</b></td>
+  </tr>
+  <tr>
+    <td>2025.12 ~ </td>
+    <td>🌎 코테이토 홈페이지</td>
     <td><b>FE</b></td>
   </tr>
 </table>
