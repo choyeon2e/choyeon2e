@@ -49,23 +49,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=choyeon2e&show_icons=true&theme=radical&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyeon2e&layout=compact&theme=radical" />
-
-### 🗓 Yearly Commits  
-![2022](https://img.shields.io/badge/2022-120-blue?style=for-the-badge&logo=github)
-![2023](https://img.shields.io/badge/2023-310-green?style=for-the-badge&logo=github)
-![2024](https://img.shields.io/badge/2024-245-yellow?style=for-the-badge&logo=github)
-![2025](https://img.shields.io/badge/2025-180-red?style=for-the-badge&logo=github)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏆 Experience & Projects  
 
 <table>
