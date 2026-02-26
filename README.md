@@ -1,116 +1,56 @@
-<div>
-  <h1 align="center">👨‍💻 <br/> choyeon2e's GitHub</h1>
-<h3 align="center">Frontend Developer </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&color=000000&vCenter=true&center=true&width=600&height=70&lines=choyeon2e's+Github;Frontend+Developer;Creative+Problem+Solver;Crafting+Better+User+Experiences" alt="Typing SVG" />
+
+  <br/>
+  <br/>
+
+  <a href="https://velog.io/@choyeon2e"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.instagram.com/keep_cy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:ace1428hee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=choyeon2e&color=bf91f3&style=flat-square&label=Profile+Views" />
 </div>
 
 ---
 
 <div align="center">
 
-## ⚡ Tech Stack  
+## Tech Stack
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<br/>
-
-<!-- Styling -->
-<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Storybook-FE4F00?style=for-the-badge&logo=Storybook&logoColor=white"/>
-<br/>
-
-<!-- State Management -->
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&logo=Jotai&logoColor=white"/>
-<br/>
-
-<!-- Deployment / Cloud -->
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_CloudFront-FF4F8B?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=storybook&logoColor=white"/>
-<br/>
-
-<!-- CI/CD & Tools -->
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Experience & Projects  
-
-<table>
+<table align="center">
   <tr>
-    <th>기간</th>
-    <th>활동 / 프로젝트</th>
-    <th>역할</th>
+    <td align="center" width="150px"><b>Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+    </td>
   </tr>
   <tr>
-    <td>2022.03 ~ 2022.12</td>
-    <td>🦁 멋쟁이사자처럼 홍익대학교 10기 아기사자</td>
-    <td><b>FE</b></td>
+    <td align="center"><b>Styling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Storybook-FE4F00?style=flat-square&logo=Storybook&logoColor=white"/>
+    </td>
   </tr>
   <tr>
-    <td>2022.08 ~ 2023.03</td>
-    <td>🎪 FESTIVALARM</td>
-    <td><b>FE</b></td>
+    <td align="center"><b>State</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jotai-000000?style=flat-square&logo=Jotai&logoColor=white"/>
+    </td>
   </tr>
   <tr>
-    <td>2022.12 ~ 2023.02</td>
-    <td>🌐 멋쟁이사자처럼 홍익대학교 홈페이지</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2023.03 ~ 2023.12</td>
-    <td>👑 멋쟁이사자처럼 11기 운영진</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2023.06 ~ 2023.12</td>
-    <td>🎁 TIFY</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2023.08 ~ 2023.09</td>
-    <td>🌸 화양연화; page</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2025.02 ~ 2025.11</td>
-    <td>🛠 TTT; The Third Tool</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2025.03 ~ 2025.08</td>
-    <td>🥔 코테이토 11기</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2025.03 ~ 2025.12</td>
-    <td>📱 TimeTile</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2025.08 ~ 2026.02</td>
-    <td>🍟 코테이토 12기 파트장</td>
-    <td><b>FE</b></td>
-  </tr>
-  <tr>
-    <td>2025.12 ~ </td>
-    <td>🌎 코테이토 홈페이지</td>
-    <td><b>FE</b></td>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
@@ -120,10 +60,28 @@
 
 <div align="center">
 
-## 🧩 Solve
-<a href="https://solved.ac/choyeon2e">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cho1428hee" />
-</a>
+## Experience & Projects
+
+<details>
+<summary><b>표 전체 보기 (클릭하여 펼치기)</b></summary>
+
+<br/>
+
+| 기간 | 활동 / 프로젝트 | 역할 |
+| :--- | :--- | :---: |
+| 2025.12 ~ | 🌎 코테이토 v2 리뉴얼 프로젝트 | FE |
+| 2025.08 ~ 2026.02 | 🍟 코테이토 12기 파트장 | FE |
+| 2025.03 ~ 2025.12 | 📱 TimeTile | FE |
+| 2025.03 ~ 2025.08 | 🥔 코테이토 11기 | FE |
+| 2025.02 ~ 2025.11 | 🛠 TTT; The Third Tool | FE |
+| 2023.08 ~ 2023.09 | 🌸 화양연화; page | FE |
+| 2023.06 ~ 2023.12 | 🎁 TIFY | FE |
+| 2023.03 ~ 2023.12 | 👑 멋쟁이사자처럼 11기 운영진 | FE |
+| 2022.12 ~ 2023.02 | 🌐 멋쟁이사자처럼 홍익대학교 홈페이지 | FE |
+| 2022.08 ~ 2023.03 | 🎪 FESTIVALARM | FE |
+| 2022.03 ~ 2022.12 | 🦁 멋쟁이사자처럼 10기 아기사자 | FE |
+
+</details>
 
 </div>
 
@@ -131,27 +89,38 @@
 
 <div align="center">
 
-## 📈 GitHub Activity Graph  
+## Algorithm Solve
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=choyeon2e&theme=react-dark&area=true&width=400&height=250" />
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <a href="https://solved.ac/profile/cho1428hee">
+      <img src="https://img.shields.io/badge/Baekjoon-009D3E?style=flat-square&logo=baekjoon&logoColor=white"/>
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cho1428hee" width="250px" />
+      </a>
+    </td>
+    <td align="center" width="300px">
+      <a href="https://programmers.co.kr">
+        <img src="https://img.shields.io/badge/Programmers-003866?style=flat-square&logo=programmers&logoColor=white"/>
+        <img src="https://raw.githubusercontent.com/choyeon2e/programmers-badge/master/static/result.svg" width="250px" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
 
-
+<img src="https://mazandi.herokuapp.com/api?handle=cho1428hee&theme=sky" width="380" /><br>
+<sub>* Algorithms solved via Baekjoon are recorded here.</sub>
 </div>
 
 ---
 
 <div align="center">
+  
+## Statistics
 
-## 💌 SNS  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=choyeon2e&theme=github-light&area=true&width=550&height=250" />
 
-<a href="https://www.instagram.com/keep_cy">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href="mailto:ace1428hee@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://velog.io/@choyeon2e">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-</a>
-
+<div/>
+  
 </div>
