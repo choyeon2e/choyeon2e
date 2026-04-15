@@ -107,10 +107,6 @@
     </td>
   </tr>
 </table>
-<br>
-
-<img src="https://mazandi.herokuapp.com/api?handle=cho1428hee&theme=sky" width="380" /><br>
-<sub>* Algorithms solved via Baekjoon are recorded here.</sub>
 </div>
 
 ---
