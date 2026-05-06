@@ -107,6 +107,7 @@
     </td>
   </tr>
 </table>
+        <img src="https://raw.githubusercontent.com/choyeon2e/github-programmers-rank/master/lib/result.svg" width="500px" />
 </div>
 
 ---
