@@ -105,15 +105,3 @@
 
 
 </div>
-
----
-
-<div align="center">
-  
-## Statistics
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=choyeon2e&theme=github-light&area=true&width=550&height=250" />
-
-<div/>
-  
-</div>
